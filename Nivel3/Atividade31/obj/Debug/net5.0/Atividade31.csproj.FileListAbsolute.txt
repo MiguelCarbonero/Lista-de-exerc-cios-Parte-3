@@ -1,0 +1,15 @@
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\bin\Debug\net5.0\Atividade31.exe
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\bin\Debug\net5.0\Atividade31.deps.json
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\bin\Debug\net5.0\Atividade31.runtimeconfig.json
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\bin\Debug\net5.0\Atividade31.runtimeconfig.dev.json
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\bin\Debug\net5.0\Atividade31.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\bin\Debug\net5.0\ref\Atividade31.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\bin\Debug\net5.0\Atividade31.pdb
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\Atividade31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\Atividade31.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\Atividade31.AssemblyInfo.cs
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\Atividade31.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\Atividade31.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\ref\Atividade31.dll
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\Atividade31.pdb
+C:\Users\giova\Desktop\ETEC_2\DS\Miguel_Carbonero_3\Nivel3\Atividade31\obj\Debug\net5.0\Atividade31.genruntimeconfig.cache
